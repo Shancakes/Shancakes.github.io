@@ -27,7 +27,6 @@
 body {
     font-size: 18px;
     @import url('https://fonts.googleapis.com/css2?family=Vibur&display=swap');
-
     margin: 0;
     background-image: url("images/background.jpg");
     background-size: 110%;

@@ -120,6 +120,5 @@ document.getElementById('board').addEventListener('click', function (event) {
     makeMove(cellIndex);
 });
 
-
 updateScoreDisplay();
 printBoard();
